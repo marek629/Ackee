@@ -15,6 +15,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 - The official Docker image is now based on Node.js 22 (#343)
 - Netlify builds use Node.js 22 (#343)
 
+### Fixed
+
+- ReDOS vulnerabilty of is_js, the request-ip dependency (thanks @marek629, #392)
+
 ## [3.4.2] - 2022-12-17
 
 ## Changed
